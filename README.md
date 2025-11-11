@@ -1,2 +1,2 @@
 # first-repo
-you can add and delete users using this website.
+you can add and delete users using this web.
